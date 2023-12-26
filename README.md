@@ -1,34 +1,25 @@
-My name is Abrar, and it's a pleasure to meet you!
+✅ Top Rated Freelancer
+✅ 100% Job Success
+✅ Terrific Upwork History 
 
-I am a smart-proactive and hard-working developer, not just hard-working developer. I will go to any length to ensure the success of your project.
-I am a detail-oriented and reliable developer who takes pride in my work. I believe in writing clean, maintainable code and following best practices to ensure that my projects are of the highest quality. I am also always looking to learn and improve my skills, and am excited about the opportunity to work with and learn from a talented team like yours.
+🚀 Front-End Developer | Turning Designs into Experiences | HTML, CSS, JS Enthusiast | Making the Web Giga-great! 🎨
 
-I always give it my all in everything I do.
+🎉 Crafting Pixel-perfect Experiences | HTML, CSS, JS | Lover of Clean Code and Creative Designs | Let's Code and Connect! ✨
 
-Talk to me and I'll show you!
+🌟 Bringing Designs to Life with Code | UI/UX Explorer | HTML/CSS Jedi | Making the Web Beautifully Usable 💡
 
-Even after the first call, I'll have plenty of ideas and suggestions for improving your product!
+I am a Front-End Developer with a strong knowledge base and over 4 years of experience in developing Websites and Web Based Systems. The technologies I use revolve around Javascript (React/Nextjs), CSS (Bootstrap/Sass)(TailwindCss)
 
+I dive into work and quickly deliver stunning results. As a Front-End Developer, I can ensure delivering the following:
 
-My skills include Reactjs and Redux (), and Next js 
--  years experience in HTML/CSS/JavaScript/Bootstrap
-- jQuery
-- tailwind css
-- Ant design .
-- Nodejs 
-- MongoDB
-- Express 
-- MUI 
-- Responsive website and W3 validation 
- - Figma, Xd, PSD, or Landing pages to REACT web app
-- Figma, Xd, PSD, or Landing pages to HTML/CSS/BOOTSTRAP
-- Figma, Xd, PSD, or Landing pages to Next js
-- Animation on websites 
--w3 validation 
--Responsive design on each screen 
--on time delivery 🚚 
+- Mobile Applications
+- Landing pages
+- ECommerce Websites
+- Web-Based Systems and Applications
+- Figm/PSD/Sketch/Xd to HTML
+- Create new functionalities for existing websites
+- Debugging errors and finding solutions
+- Working through Git, Slack, and Trello
+- Full transparency and daily updates on the progress
 
-I am excited about the opportunity to work with you on this project and bring your vision to life. Please don't hesitate to contact me if you have any questions or if you'd like to see examples of my work.
-
-DO contact 
-Thanks
+Ultimately, if you want a reliable, hardworking, and above all trustworthy person to work with, you can consider doing so with me.
