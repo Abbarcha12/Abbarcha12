@@ -1,6 +1,3 @@
-✅ Top Rated Freelancer
-✅ 100% Job Success
-✅ Terrific Upwork History 
 
 🚀 Front-End Developer | Turning Designs into Experiences | HTML, CSS, JS Enthusiast | Making the Web Giga-great! 🎨
 
