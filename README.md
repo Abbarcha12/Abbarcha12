@@ -47,14 +47,3 @@ I'm currently taking on **React/Next.js**, **Full-Stack**, and **AI Integration*
 
 ---
 
-## 📊 GitHub Stats
-
-![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abbarcha12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbarcha12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abbarcha12&color=58a6ff&style=flat-square&label=Profile+Views" />
-</p>
