@@ -41,7 +41,7 @@ I build **fast web apps** and **intelligent AI systems** that ship to production
 
 I'm currently taking on **React/Next.js**, **Full-Stack**, and **AI Integration** projects.
 
-**→ [View my Upwork profile & hire me](https://www.upwork.com/freelancers/~yourprofileid)**
+**→ [View my Upwork profile & hire me](https://www.upwork.com/freelancers/~0159384574cca4c8f2?mp_source=share)**
 
 📩 Or reach out directly: [LinkedIn](https://linkedin.com/in/yourlinkedin) · [GitHub](https://github.com/Abbarcha12)
 
